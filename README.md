@@ -1,2 +1,2 @@
 # eShop for the database course
-.Net project using NHibernate ORM and Azure cloud database
+Repository for .Net project using NHibernate ORM and Azure cloud database
